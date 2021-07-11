@@ -99,6 +99,3 @@ function gameLoop(){
      snake.shift();
  }
 }
-
-
-
